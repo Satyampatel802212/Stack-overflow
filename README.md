@@ -1,5 +1,5 @@
 
-Website is live at https://stack-overflow-clone-gautam.vercel.app/
+Stack overflow clone Website is live at https://stack-overflow-clone-gautam.vercel.app/
 # `yarn install`
 use above command to the client side to install dependencies
 
